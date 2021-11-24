@@ -1,3 +1,5 @@
+import './style/style.css';
+
 const taskInputDesc = document.getElementById('input');
 const button = document.getElementById('button');
 const taskWrapper = document.querySelector('.todo-list');
